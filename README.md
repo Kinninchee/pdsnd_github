@@ -10,7 +10,7 @@ pdsnd_github for bikesharing
 This project is about evaluating statistics about bikesharing in chicago, new york city and washington
 
 ### Files used
-Include the files used
+bikesharing.py, chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/Kinninchee/pdsnd_github
