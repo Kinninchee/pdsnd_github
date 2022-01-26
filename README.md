@@ -7,7 +7,7 @@ This project and readme file is created on 26.01.2022
 pdsnd_github for bikesharing
 
 ### Description
-Describe what your project is about and what it does
+This project is about evaluating statistics about bikesharing in chicago, new york city and washington
 
 ### Files used
 Include the files used
